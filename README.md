@@ -1,10 +1,10 @@
 # Hello World
-#### A simple webpage that contains hellos in different languages, 10.09.2017
+#### A simple webpage that contains hellos in different languages and a webpage that has my favorite places, 10.09.2017
 #### By _**John Sawiris and Sam Kissee**_
 
 ## Description
 
-This a simple webpage that collects a bunch of hellos in several different languages
+This a simple webpage that collects a bunch of hellos in several different languages, and a webpage that has my favorite places.
 
 ## Setup
 
