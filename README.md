@@ -4,12 +4,12 @@
 
 ## Description
 
-This a simple webpage that collects a bunch of hello in several different languages
+This a simple webpage that collects a bunch of hellos in several different languages
 
 ## Setup
 
 * _Clone this repository_
-* _Enter the directory of choice_
+* _Enter directory of choice_
 * _In the terminal run this command " $ git clone https://github.com/JohnSawiris/hello-world "_
 
 ## Technologies Used
